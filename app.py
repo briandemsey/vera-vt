@@ -26,7 +26,7 @@ import plotly.graph_objects as go
 # CONFIGURATION
 # ============================================================================
 
-APP_VT_GREEN = "#006B3F"
+VT_GREEN = "#006B3F"
 VT_GOLD = "#FFD700"
 VT_DARK = "#004D2C"
 VT_GRAY = "#4A4A4A"
